@@ -9,7 +9,7 @@ const Navigation = ({ currentPage, setCurrentPage }) => {
     { id: 'home', label: 'Home' },
     { id: 'publications', label: 'Publications' },
     { id: 'news', label: 'News' },
-    { id: 'cv', label: 'Resume', isPreview: true, href: '/cv.pdf' } 
+    { id: 'cv', label: 'Resume', isPreview: true, href: '/cv.pdf' } ];
 
   const handleMenuClick = (itemId) => {
     setCurrentPage(itemId);
@@ -108,3 +108,4 @@ const Navigation = ({ currentPage, setCurrentPage }) => {
 };
 
 export default Navigation;
+
