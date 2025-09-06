@@ -9,7 +9,7 @@ import { MdEmail } from 'react-icons/md';
 
 const personalInfo = {
   name: "Mohammed Aman Bhuiyan",
-  title: "Research Assistant *UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUu",
+  title: "AI/ML Enthusiast, CS Researcher (North South University)",
   image: "./public/aman.png", 
   contact: {
     email: "aman@example.com",
@@ -47,6 +47,7 @@ const personalInfo = {
 
 
 export default personalInfo;
+
 
 
 
