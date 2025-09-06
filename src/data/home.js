@@ -7,8 +7,8 @@ const homeData = {
   education: {
     degree: "B.Sc. in Computer Science and Engineering",
     university: "North South University",
-    period: "2019 - 2023",
-    grade: "CGPA: 3.75/4.00"
+    period: "Sep 2021 - Dec 2025",
+    grade: "Graduated with Academic distinction - <em>Magna Cum Laude</em>"
   },
   selectedPublications: [
     {
@@ -33,5 +33,6 @@ const homeData = {
     }
   ]
 };
+
 
 export default homeData;
