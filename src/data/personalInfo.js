@@ -42,12 +42,13 @@ const personalInfo = {
 ],
   skills: ['Python', 'PyTorch', 'TensorFlow', 'Transformers', 'React', 'Node.js', 'JavaScript', 'Machine Learning', 'Deep Learning'],
   languages: ['Bengali (Native)', 'English (Fluent)', 'Hindi (Conversational)'],
-  researchInterests = ["Natural Language Processing", "Efficient LLMs & SLMs", "Agentic AI", "Computer Vision", "Video Understanding"]
+  researchInterests : ["Natural Language Processing", "Efficient LLMs & SLMs", "Agentic AI", "Computer Vision", "Video Understanding"]
 
 };
 
 
 export default personalInfo;
+
 
 
 
