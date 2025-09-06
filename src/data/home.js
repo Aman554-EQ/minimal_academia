@@ -1,8 +1,8 @@
 // data/home.js
 const homeData = {
   about: [
-    "Hello, I'm Mohammed Aman Bhuiyan. I am currently working as a Research Assistant in the CCDS Lab at IUB, and I also work part-time as an AI/ML Researcher at Penta Global Limited. I earned my B.Sc. degree in Computer Science and Engineering from the University of Dhaka.",
-    "My research interests are primarily in Natural Language Processing (NLP) and Multimodality. In the field of NLP, I focus on areas such as low-resource languages, hate speech detection, and improving the inference speed of language models. In multimodal research, I am engaged in projects related to visual question answering, modality alignment, addressing modality gaps, and developing multimodal adapters. Additionally, I have also explored several important & popular topics Variational Autoencoders (VAEs), Posterior Collapse, State Space Models (SSMs), and Diffusion models."
+    "Hello, I'm Mohammed Aman Bhuiyan. I am an avid researcher in the field of AI/ML, an aspiring Machine Learning Engineer, and I am actively involved in advancing research within this domain. I graduated with a B.Sc. in Computer Science and Engineering from North South University, earning Magna Cum Laude honors. Under the supervision of Dr. Shafin Rahman, I completed my undergraduate thesis on the Anchor Transformer for Online Temporal Action Localization, where our model surpassed state-of-the-art benchmarks.",
+    "My research interests are primarily in Natural Language Processing (NLP) and Computer Vision. In NLP, I focus on optimizing language models for edge devices, building task-specific pipelines, and improving inference speed. In Computer Vision, I work on video understanding with temporal action localization, addressing limitations using Anchor Transformer, and designing optimized loss functions for class imbalance. Additionally, I have explored other important and emerging topics, including Variational Autoencoders (VAEs), Reasoning Models, Agentic AI, and Diffusion Models."
   ],
   education: {
     degree: "B.Sc. in Computer Science and Engineering",
@@ -13,20 +13,20 @@ const homeData = {
   selectedPublications: [
     {
       id: 1,
-      title: 'BanglaTLit: A Benchmark Dataset for Back-Transliteration of Romanized Bangla',
-      venue: 'EMNLP-2024 [Findings]',
-      authors: 'Md Fahim, Fariha Tanjim Shifat, Fabiha Haider, Deeparghya Dutta Barua, Md Sakib Ul Rahman Sourove, Md Farhan Ishmam, Farhad Alam Bhuiyan',
-      year: 2024,
+      title: 'Z-Pruner: Post-Training Pruning of Large Language Models for Efficiency without Retraining',
+      venue: 'AICCSA-2025',
+      authors: 'Samiul Basir Bhuiyan, Md. Sazzad Hossain Adib, Mohammed Aman Bhuiyan, Muhammad Rafsan Kabir, Moshiur Farazi, Shafin Rahman, Nabeel Mohammed',
+      year: 2025,
       type: 'Conference',
       paperUrl: '#',
       codeUrl: '#'
     },
     {
       id: 2,
-      title: 'Improving the Performance of Transformer-based Models Over Classical Baselines in Hate Speech Detection',
-      venue: 'ICPR-2024',
-      authors: 'Mohammed Aman Bhuiyan, Fariha Tanjim Shifat, Md Fahim, Fabiha Haider',
-      year: 2024,
+      title: 'TimeClip: An Online Temporal Action Localization Framework with Anchor Transformer',
+      venue: 'Under Review',
+      authors: 'Mohammed Aman Bhuiyan, Md. Sazzad Hossain Adib,  Samiul Basir Bhuiyan, Shafin Rahman',
+      year: 2025,
       type: 'Conference',
       paperUrl: '#',
       codeUrl: '#'
@@ -36,6 +36,7 @@ const homeData = {
 
 
 export default homeData;
+
 
 
 
