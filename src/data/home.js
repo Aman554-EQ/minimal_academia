@@ -18,8 +18,8 @@ const homeData = {
       authors: 'Samiul Basir Bhuiyan, Md. Sazzad Hossain Adib, Mohammed Aman Bhuiyan, Muhammad Rafsan Kabir, Moshiur Farazi, Shafin Rahman, Nabeel Mohammed',
       year: 2025,
       type: 'Conference',
-      paperUrl: '#',
-      codeUrl: '#'
+      paperUrl: 'https://www.arxiv.org/abs/2508.15828',
+      codeUrl: 'https://github.com/sazzadadib/Z-Pruner'
     },
     {
       id: 2,
